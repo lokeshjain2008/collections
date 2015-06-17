@@ -18,3 +18,10 @@ There are some questions from Stackoverflow to explain this.
 - http://datameet.org/wiki/indiangeospatialdata
 - [data Layer google](https://developers.google.com/maps/documentation/javascript/datalayer)
 - http://gis.stackexchange.com/questions/62976/indian-city-points-and-village-boundaries
+
+## Resouces for the google map layer creation.
+- To get population under the map. this is amazing see [link](https://populationexplorer.com/)
+- To create GeoJson files for the drawing and area [link](http://geojson.io/)
+- Blog about the maps with good resources [link](http://googlemapsmania.blogspot.in/)
+- Website doing maps and data visualization on the maps [link](https://www.mapbox.com/)
+
