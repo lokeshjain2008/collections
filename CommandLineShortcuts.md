@@ -32,5 +32,9 @@ Tell me the time devoted in the work Fri Apr  8 12:24:52 IST 2016
 
 ```
 
+### `export` command explained 
+Follow the [link](http://how-to.linuxcareer.com/learning-linux-commands-export) for detailed explanation and use of `export`
+
+
 
 
